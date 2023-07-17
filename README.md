@@ -10,6 +10,6 @@
 
 and .... surprice - if you click demo, you can see my website:
 
-![demo](https://marzenasadowskaserafin.github.io/firstWebsite/)
+![demo](https://marzenasadowskaserafin.github.io/firstWebsite)
 
 ***********************************
