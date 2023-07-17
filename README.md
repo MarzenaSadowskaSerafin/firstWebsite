@@ -1,7 +1,7 @@
 ***********************************
 # Hello!
 
-(https:/Image/200.gif)
+(https:/Images/200.gif)
 
 
 This is my first website and my first file README.md.
